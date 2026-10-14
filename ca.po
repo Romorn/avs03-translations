@@ -3745,7 +3745,7 @@ msgid "UI.tutorial_5_body"
 msgstr ""
 "L'objectiu del joc és sobreviure.\n"
 "\n"
-"Hi ha 5 rondes de 5 minuts. Arribar a la {safe} al final de cada ronda per "
+"Hi ha 5 rondes de 5 minuts. Arriba a la {safe} al final de cada ronda per "
 "continuar."
 
 #. Tutorial page 6
